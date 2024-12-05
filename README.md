@@ -1,5 +1,5 @@
 # Text-Formatter
-**Receive text string and formatting it into shape.**
+**Receive a text string, and format it into shape.**
 
 This program reads from the standard input a text consisting of characters (ASCII codes). 
 
