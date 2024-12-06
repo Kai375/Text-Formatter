@@ -101,9 +101,9 @@ of the current run.
 
 The length of the input line, and the number of lines in the input, are not known in advance and are not restricted.
 
-The text in the input can contain all ASCII codes, except the character '\0' (we can assume that the input is valid).
+The text in the input can contain all ASCII codes, except the character `\0` (we can assume that the input is valid).
 
-All characters from the input will be stored in the data structure, except the character '\n', which must be **skipped** every time it appears 
+All characters from the input will be stored in the data structure, except the character `\n`, which must be **skipped** every time it appears 
 
 **and not inserted** into the structure.
     
